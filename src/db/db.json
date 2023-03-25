@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "shadrak",
+      "type": "Admin"
+    },
+    {
+      "id": "2",
+      "name": "valli",
+      "type": "user"
+    },
+    {
+      "id": "3",
+      "name": "komali",
+      "type": "admin"
+    }
+  ]
+}
